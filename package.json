@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "dependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "nanoid": "3.1.28",
+    "react": "17.0.2",
+    "react-confetti": "6.0.1",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0",
+    "babel-loader": "^7.0",
+    "babel-preset-env": "*",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2023": "^0.0.0",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^2.0"
+  },
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w"
+  }
+}
