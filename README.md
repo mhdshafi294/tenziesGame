@@ -1,13 +1,13 @@
 # The Tenzies Game Project
 
-This is a project I did with a Scrimba React.js course, and at the end I added these features by my self for extra credit;
-1. Puted real dots on the dice
+This is a project I did with a Scrimba React.js course, and at the end I added these features by myself for extra credit;
+1. Put real dots on the dice
 2. Tracked the number of rolls
 3. Tracked the time it took to win
 4. Saved both of them to track any new records
 5. added a stopwatch on the screen for the user.
 
-Download it and enjoy!, or you can visit this link https://jolly-cucurucho-b564de.netlify.app/ to try it directly. Have fun! I would love any feedback.
+Download it and enjoy! or you can visit this link https://tenzies-shafik.netlify.app to try it directly. Have fun! I would love any feedback.
 
 
 
